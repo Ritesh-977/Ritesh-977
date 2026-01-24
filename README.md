@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi there 👋, I'm Ritesh Singh  
 
-<!--
-**Ritesh-977/Ritesh-977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (2022–2026)** at Motilal Nehru National Institute of Technology, Allahabad  
+💻 **Full-Stack Web Developer** | **Software Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 💡 Strong interest in **Data Structures & Algorithms**
+- 🌱 Learning **System Design & Backend Engineering**
+- 🧠 Comfortable with **problem-solving and scalable web apps**
+- 🎯 Goal: Become a strong **Software Development Engineer (SDE)**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+- C++, Java, JavaScript, HTML, CSS  
+
+### ⚙️ Frameworks & Libraries  
+- React.js, Redux Toolkit, Next.js  
+- Express.js, Node.js, Spring Boot  
+- Tailwind CSS, Bootstrap  
+
+### 🗄️ Databases  
+- MongoDB, MySQL  
+
+### ☁️ Tools & Platforms  
+- Git, GitHub, AWS  
+- Cloudinary, REST APIs  
+- Socket.IO  
+
+---
+
+## 📌 Featured Projects  
+
+### 🛒 KampusCart  
+**Tech:** MERN Stack, Socket.IO, Cloudinary, Tailwind CSS  
+🔹 Campus-focused Buy & Sell platform  
+🔹 Live search & filters  
+🔹 Wishlist & item management  
+🔹 Real-time features  
+
+🔗 **Live:** https://www.kampuscart.site/  
+🔗 **Repo:** https://github.com/Ritesh-977/KampusCart  
+
+---
+
+### 🐾 VetConnect (Dr-Appointment)  
+**Tech:** MERN Stack, REST APIs, Cloudinary, Tailwind CSS  
+🔹 Veterinary appointment booking system  
+🔹 3-level authentication (User / Doctor / Admin)  
+🔹 Earnings tracking & profile management  
+
+🔗 **Live:** https://dr-appointment-frontend.onrender.com/  
+🔗 **Repo:** https://github.com/Ritesh-977/Dr-Appointment  
+
+---
+
+## 📊 Coding Profiles  
+
+- **LeetCode:** Ritesh-977 (Max Rating: 1582)  
+- **GeeksforGeeks:** rahul-singh— (Problems Solved: 479)  
+- **Codeforces:** Rahul977 (Max Rating: 1078)  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 Email: riteshsingh8848@gmail.com  
+- 💼 GitHub: https://github.com/Ritesh-977  
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*  
