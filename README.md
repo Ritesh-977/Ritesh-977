@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me:
-💡 Strong interest in **Data Structures & Algorithms** <br>🌱 Learning **System Design & Backend Engineering** <br>🧠 Comfortable with **problem-solving and scalable web apps** <br>🎯 Goal: Become a strong **Software Development Engineer (SDE)**
+💡 Strong interest in **Data Structures & Algorithms** <br>🌱 Learning **System Design** <br>🧠 Comfortable with **problem-solving and scalable web apps** <br>🎯 Goal: Become a strong **Software Development Engineer (SDE)**
 
 
 ## 🌐 Socials:
