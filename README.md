@@ -72,10 +72,17 @@
 ---
 
 ## 📊 Coding Profiles  
-
-- **LeetCode:** [Ritesh-977](https://leetcode.com/u/Ritesh-977/) — Max Rating: **1582**  
-- **GeeksforGeeks:** [rahul-singh—](https://auth.geeksforgeeks.org/user/rahul-singh/) — Problems Solved: **479**  
-- **Codeforces:** [Rahul977](https://codeforces.com/profile/Rahul977) — Max Rating: **1078**
+<p align="left">
+  <a href="https://leetcode.com/u/Ritesh-977/">
+    <img src="https://img.shields.io/badge/LeetCode-Ritesh--977-1c1c1c?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/rahul-singh/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-rahul--singh-1c1c1c?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+  </a>
+  <a href="https://codeforces.com/profile/Rahul977">
+    <img src="https://img.shields.io/badge/Codeforces-Rahul977-1c1c1c?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" />
+  </a>
+</p>
 
 
 ---
