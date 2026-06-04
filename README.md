@@ -12,22 +12,29 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub & Language Statistics
 
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div align="center">
+  <img align="right" width="25%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Owl Mascot">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ritesh-977&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritesh-977&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170" alt="Ritesh's GitHub Stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=Ritesh-977&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170" alt="Ritesh's GitHub Streak" />
+</div>
 
+<br>
 
-[![](https://visitcount.itsvg.in/api?id=Ritesh-977&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-977&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170" alt="Top Languages" />
+</div>
 
----
+<br>
 
-
-### 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-977&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Ritesh-977&icon=0&color=0" alt="Profile Views Count" />
+  </a>
+</div>
 
 ---
 
