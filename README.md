@@ -36,10 +36,6 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritesh-977&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&title_color=61DAFB&text_color=C8E1FF" alt="GitHub Trophies" />
-</div>
-<br>
-<div align="center">
   <!-- Pac-Man Contribution Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritesh-977/Ritesh-977/output/pacman-contribution-graph-dark.svg">
@@ -73,6 +69,7 @@
     <img src="https://img.shields.io/badge/View_Source_Code-white?style=for-the-badge&logo=github&logoColor=black&labelColor=lightgrey" height="25" alt="Repo" />
   </a>
 </p>
+
 ---
 
 ## 📬 Let's Connect
@@ -91,9 +88,9 @@
 </p>
 
 ---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" alt="Footer Banner" />
-  <br>
   <br>
   ⭐ <i>If you like my work, consider starring my repositories!</i>
 </div>
