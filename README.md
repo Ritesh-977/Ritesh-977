@@ -31,6 +31,19 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-977&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="165" alt="Top Languages" />
 </div>
+<div align="center">
+  <!-- Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ritesh-977/Ritesh-977/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ritesh-977/Ritesh-977/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/Ritesh-977/Ritesh-977/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+<br>
+<div align="center">
+  <!-- Space Shooter Contribution Graph -->
+  <img src="./assets/space-shooter.gif" alt="Space Shooter Contribution Graph" />
+</div>
 
 ---
 
